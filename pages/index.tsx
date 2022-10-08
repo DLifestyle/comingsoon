@@ -12,7 +12,7 @@ const Home: NextPage = () => {
                          <span className="text-gray-900">DLifestyle -</span>
                          <br />
                          <span className="text-white">
-                              Traveller's Community, <br /> Holidays & Much More.
+                              {`Traveller's Community`}, <br /> Holidays & Much More.
                          </span>
                     </h6>
                     <h1 className="text-5xl uppercase font-bold text-gray-100 my-5">Someting new is coming!</h1>
