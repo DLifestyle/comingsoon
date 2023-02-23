@@ -15,7 +15,7 @@ const Home: NextPage = () => {
                               {`Traveller's Community`}, <br /> Holidays & Much More.
                          </span>
                     </h6>
-                    <h1 className="text-5xl uppercase font-bold text-gray-100 my-5">Someting new is coming!</h1>
+                    <h1 className="text-5xl uppercase font-bold text-gray-100 my-5">Something new is coming!</h1>
                     <p className="text-gray-500">Follow me on instagram - www.instagram.com/abc123</p>
                </main>
           </>
